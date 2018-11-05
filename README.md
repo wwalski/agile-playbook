@@ -1,3 +1,17 @@
+# 2	AGILE TRANSFORMATION
+## 2.1	Waterfall background (where is the reader coming from)
+It is challenging to use agile methods in the DoD and AF because the workforce has been trained in and has practiced using the required waterfall methodology for 50+ years.  In many ways, it was instituted as a way to carefully control risk along the development path and accommodate the often stove piped organizations that supported development efforts.  This means that the processes, procedures, acquisition rules, contracting approaches, testing requirements, and so on are all based on the waterfall method. 
+## 2.2	Agile Introduction
+### 2.2.1	4 Agile Values
+The Agile Manifesto describes the overarching beliefs of Agile software development as follows (http://agilemanifesto.org): 
+  
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:   
+  
+  
+That is, while there is value in the items on the right, we value the items on the left more.   
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wwalski/agile-playbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
