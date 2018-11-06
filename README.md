@@ -5,11 +5,11 @@ It is challenging to use agile methods in the DoD and AF because the workforce h
 ### 2.2.1	Four (4) Agile Values
 The Agile Manifesto describes the overarching beliefs of Agile software development as follows (http://agilemanifesto.org): 
   
-We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:   
+_We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:_   
 
 ![Agile Manifest](Agile_Manifesto.jpg)
 
-That is, while there is value in the items on the right, we value the items on the left more.   
+_That is, while there is value in the items on the right, we value the items on the left more._   
 
 ### 2.2.2	Benefits
 1.	**Higher quality product** (incremental development, continuous integration and automated testing tools allow developers to fix issues quicker when they are fresh in their mind and have fewer secondary effects on code built on top of a bug).  
